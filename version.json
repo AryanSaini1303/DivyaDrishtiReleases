@@ -1,0 +1,14 @@
+{
+    "version": "4.1.0",
+    "released_at": "2026-04-25T10:00:00Z",
+    "download_url": "https://github.com/AryanSaini1303/DivyaDrishtiReleases/releases/download/v4.1.0/update.zip",
+    "release_notes": "Fixed GCP extraction using pixel-based mask approach. Improved alignment detection. Camera reconnect stability improvements.",
+    "manifest": {
+        "replace": [
+            "DivyaDrishti_test.exe",
+            "_internal/"
+        ],
+        "add": [],
+        "delete": []
+    }
+}
